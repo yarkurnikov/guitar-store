@@ -1,0 +1,15 @@
+.header-container {
+	display: flex;
+	height: 50px;
+	padding: 10px;
+	background-color: #5b0e8877;
+}
+
+.header-counter {
+	margin-left: auto;
+	padding-right: 10px;
+	font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+	cursor: pointer;
+}

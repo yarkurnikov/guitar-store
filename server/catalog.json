@@ -1,0 +1,74 @@
+[
+   {
+        "id": "el1",
+        "name": "EVH WOLFGANG SPECIAL MN MATTE ARMY DRAB",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/227356/227356_EVH%20WOLFGANG%20SPECIAL%20MN%20MATTE%20ARMY%20DRAB_1-1200x800.jpg",
+        "price": 29260
+    },
+    {
+        "id": "el2",
+        "name": "FENDER PLAYER DUO SONIC MN DSD",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/230167/230167_1-1200x800.jpg",
+        "price": 19152
+    },
+    {
+        "id": "el3",
+        "name": "JACKSON X SERIES SOLOIST SL3X DX ABSYNTHE FROST",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/231241/231241_1-1200x800.jpg",
+        "price": 23142
+    },
+    {
+        "id": "el4",
+        "name": "EPIPHONE Casino Vint. Sunburst Ch Hdwe",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/205141/205141_1-1200x800.jpg",
+        "price": 19391
+    },
+    {
+        "id": "el5",
+        "name": "EPIPHONE LES PAUL CLASSIC WORN EBONY",
+        "img": "https://muztorg.ua/image/cache/catalog/99992/230106/230106_EPIPHONE%20LES%20PAUL%20CLASSIC%20WORN%20EBONY_1-1200x800.jpg",
+        "price": 13965
+    },
+    {
+        "id": "el6",
+        "name": "EPIPHONE LES PAUL STUDIO ALPINE WHITE",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/230103/230103_1-1200x800.jpg",
+        "price": 13965
+    },
+    {
+        "id": "el7",
+        "name": "FENDER AMERICAN ACOUSTASONIC STRATOCASTER SONIC BLUE",
+        "img": "https://muztorg.ua/image/cache/catalog/99995/230161/230161_1-1200x800.jpg",
+        "price": 6384
+    },
+    {
+        "id": "el8",
+        "name": "GRETSCH G2622T STREAMLINER LR GUNMETAL",
+        "img": "https://muztorg.ua/image/cache/catalog/99995/228375/228375_1-1200x800.jpg",
+        "price": 17024
+    },
+    {
+        "id": "el9",
+        "name": "SQUIER by FENDER AFFINITY SERIES JAZZMASTER LR BURGUNDY MIST",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/231511/231511_1-1200x800.jpeg",
+        "price": 9975
+    },
+    {
+        "id": "el10",
+        "name": "SQUIER by FENDER BULLET STRATOCASTER HSS BK",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/204390/204390_112-1200x800.jpg",
+        "price": 5453
+    },
+    {
+        "id": "el11",
+        "name": "FENDER JIMMY PAGE TELECASTER RW NAT",
+        "img": "https://muztorg.ua/image/cache/catalog/99992/229586/229586_FENDER%20JIMMY%20PAGE%20TELECASTER%20RW%20NAT_1-1200x800.jpg",
+        "price": 49210
+    },
+    {
+        "id": "el12",
+        "name": "EVH WOLFGANG WG STANDARD EXOTIC BOCOTE NATURAL",
+        "img": "https://muztorg.ua/image/cache/catalog/99994/231227/231227_1-1200x800.jpg",
+        "price": 19950
+    }
+]
